@@ -17,9 +17,10 @@ This To-Do website project was created as a part of my journey in learning JavaS
 
 ## Screenshots
 
-![Homepage](screenshots/screenshot1.png)
+![Overview](screenshots/screenshot2.png)
+*Overview of the website*
 
-![Completing Task](screenshots/screenshot2.png)
+![Completing Task](screenshots/screenshot1.png)
 *Screenshot demonstrating task completion.*
 
 
